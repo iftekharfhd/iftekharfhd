@@ -41,7 +41,8 @@
 <p align="left">
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ros2" width="80" height="80"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Audio-Card-icon.png" alt="proteus" width="40" height="40"/> </a> 
+<a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Audio-Card-icon.png" alt="proteus" width="40" height="40"/> </a>
+<a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/vinceliuice/Fluent-icon-theme/blob/master/src/scalable/apps/kicad.svg" alt="kicad" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Version Control:</h3>

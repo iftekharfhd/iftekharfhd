@@ -1,12 +1,9 @@
 ![MasterHead](https://habrastorage.org/webt/pc/yj/0u/pcyj0uly_sdna63fl0kcwhb2fk4.png)
 <h1 align="center">Hi 👋, I'm Iftekhar</h1>
-<h3 align="center">A self taught programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftekharfhd&label=Profile%20views&color=0e75b6&style=flat" alt="iftekharfhd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftekharfhd" alt="iftekharfhd" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning & Robot Operating System**
+- 🌱 I’m currently learning **Unsupervised ML Algorithms**
 
 - 💬 Ask me about **Astronomy & Car Restoration**
 
